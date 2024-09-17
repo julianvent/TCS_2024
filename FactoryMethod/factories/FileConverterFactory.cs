@@ -1,0 +1,4 @@
+interface FileConverterFactory 
+{
+    IFileConverter createFileConverter();
+}
