@@ -38,7 +38,7 @@ class Program
                     Console.WriteLine("Opcion invalida");
                     break;
             }
-        } while (option != 1);
+        } while (option != 0);
 
 
     }
